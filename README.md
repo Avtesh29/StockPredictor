@@ -1,6 +1,8 @@
 # Stock Predictor
 
 This project is a Python-based tool designed to predict stock prices using historical data and machine learning algorithms.
+> [!NOTE]  
+> This repository is currently in production
 
 ---
 
@@ -12,7 +14,7 @@ The **Stock Predictor** leverages machine learning techniques to analyze histori
 
 ## 💡 Technologies and Concepts
 
-**Technologies:** `Python`, `tensorflow`, `keras`, `Pandas`, `NumPy`, `Scikit-learn`
+**Technologies:** `Python`, `tensorflow`, `keras`, `Pandas`, `NumPy`, `Scikit-learn`, `matplotlib`
 
 **Concepts:** `Data Preprocessing`, `Machine Learning`, `Predictive Modeling`, `Time Series Analysis`
 
