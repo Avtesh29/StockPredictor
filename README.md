@@ -24,7 +24,6 @@ The **Stock Predictor** leverages machine learning techniques to analyze histori
 
 - **Data Loading**: Reads and preprocesses stock data from CSV files.
 - **Predictive Modeling**: Implements machine learning algorithms to predict future stock prices.
-- **Environment Configuration**: Provides a `requirements.txt` for easy setup of dependencies.
 
 ---
 
